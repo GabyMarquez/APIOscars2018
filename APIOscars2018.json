@@ -1,0 +1,47 @@
+[
+	{
+		"APIOscars2018":[],
+		"Id":1,
+		"Nombre":"hree Billboards Outside Ebbing, Missouri",
+		"Genero":"Drama/Cine policíaco",
+		"Fecha":"2017",
+		"Director":"Martin McDonagh",
+		"Estado":"Nominada"
+	},
+	{
+		"APIOscars2018":[],
+		"Id":2,
+		"Nombre":"Lady Bird",
+		"Genero":"Drama/Comedia dramática",
+		"Fecha":"2017",
+		"Director":"Greta Gerwig",
+		"Estado":"Nominada"
+	},
+	{
+		"APIOscars2018":[],
+		"Id":3,
+		"Nombre":"The Shape of Water",
+		"Genero":"Drama/Cine fantástico",
+		"Fecha":"2017",
+		"Director":"Guillermo del Toro",
+		"Estado":"Ganadora"
+	},
+	{
+		"APIOscars2018":[],
+		"Id":4,
+		"Nombre":"Call Me by Your Name",
+		"Genero":"Drama/Cine romantico",
+		"Fecha":"2017",
+		"Director":"Luca Guadagnino",
+		"Estado":"Nominada"
+	},
+	{
+		"APIOscars2018":[],
+		"Id":5,
+		"Nombre":"Get Out",
+		"Genero":"Misterio/Suspenso",
+		"Fecha":"2017",
+		"Director":"Jordan Peele",
+		"Estado":"Nominada"
+	}
+]
